@@ -1,5 +1,5 @@
 {
-    "name": "marcdibold/sonata-core-bundle",
+    "name": "sonata-project/sonata-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataCoreBundle",
     "keywords": ["sonata"],
